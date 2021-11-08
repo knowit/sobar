@@ -10,10 +10,10 @@ Kontaktpersoner:
 -   Birgitte Rishatt
 -   Andreas Bade
 
-![sobar_skilt.jpg](sobar_skilt.jpg)
+![sobar_skilt.jpg](./images/drawings/sobar_skilt.jpg)
 
-![IMG_0229.jpeg](IMG_0229.jpeg)
+![IMG_0229.jpeg](./images/finished/IMG_0229.jpeg)
 
-![render4.png](render4.png)
+![render4.png](./images/generated/render4.png)
 
-![render1.png](render1.png)
+![render1.png](./images/generated/render1.png)
